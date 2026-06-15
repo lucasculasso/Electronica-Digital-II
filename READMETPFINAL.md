@@ -35,7 +35,7 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 * **Método de alimentación:**
   1) Vía USB para el PIC.
   2) Fuente externa de alimentacion de DC.
-###Entorno:
+### Entorno:
 * **Entorno de desarrollo:** MPLAB X IDE v.5.35, compilador XC8.
 *  **Hardware de programación:** Conexion directa de TX y RX al PIC, no se utilizó ningún PICKit.
 *  **Configuración de Bits:**
