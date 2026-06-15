@@ -30,8 +30,8 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
 ### Software:
 ## 3. Especificaciones:
 * **Tensión de alimentación:**
- 1) 3.3V para el PIC 16F887.
- 2) 5V para los servomotores.
+  1) 3.3V para el PIC 16F887.
+  2) 5V para los servomotores.
 * **Método de alimentación:**
   1) Vía USB para el PIC.
   2) Fuente externa de alimentacion de DC.
@@ -42,6 +42,6 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   1) *Oscilador:* XT (Cristal Externo de 4MHz)
   2) *Watchdog Timer (WDT):* OFF
   3) *Master Clear (MCLRE):* ON
-----REVISAR
+  4)----REVISAR
 
 
