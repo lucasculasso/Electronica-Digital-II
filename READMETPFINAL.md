@@ -43,5 +43,17 @@ Este proyecto puede ser extrapolable a la instalación de un panel solar que ras
   2) *Watchdog Timer (WDT):* OFF
   3) *Master Clear (MCLRE):* ON
   4)  ----REVISAR
+* Perifericos Internos usasdos:
+  1) Timer0
+  2) RB0
+  3) Timer1
+  4) UART
+* Prioridad de interrupción: Timer1. Debido a la frecuencia con la que interrumpe y a que maneja el movimiento de los servos.
+## 4. Proceso de Integración y Desarrollo:
+* Etapa 1: Investigación sobre programacion de servomotores.
+* Etapa 2: Implementación del ADC junto con los LDRs.
+* Etapa 3: Configuración de puertos.
+* Etapa 4: Multiplexacion de displays y mostrar datos.
+* Etapa 5: Comunicacion serie con PC.
 
 
